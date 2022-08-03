@@ -7,3 +7,7 @@ Permission in manifest:
 Add dependencies:
 
 implementation 'com.android.volley:volley:1.2.1'
+
+Reference: (Volley)
+https://google.github.io/volley/simple.html
+https://stackoverflow.com/questions/3505930/make-an-http-request-with-android
